@@ -1,0 +1,33 @@
+{
+    "nodeAddr":     "127.0.0.1",
+    "wsPort":       8506,
+    "startBlock":   0,
+    "endBlock":     "latest",
+    "quiet":        true,
+    "syncAll":      true,
+    "patch":        true,
+    "patchBlocks":  100,
+    "bulkSize":     100,
+    "settings": {
+        "symbol": "EC",
+        "name": "EC",
+        "title": "EC Block Explorer",
+        "author": "skyboy",
+        "contact": "mailto:cnhysc@outlook.com",
+        "about": "This is an open source Blockchain Explorer.",
+        "rss": "https://coin.ec",
+        "reddit": "https://www.reddit.com/r/coinec",
+        "twitter": "https://twitter.com/coinec",
+        "linkedin": "https://www.linkedin.com/company/coinec",
+        "github": "https://github.com/coinec",
+        "logo": "/img/logo.png",
+        "copyright": "2019 &copy; Coin Ec.",
+        "poweredbyCustom": false,
+        "poweredbyEtcImage": "/img/logo2.png",
+        "poweredbyEtc": true,
+        "tokenList": "tokens.json",
+        "useRichList": true,
+        "useFiat": true,
+        "miners": {}
+    }
+}
