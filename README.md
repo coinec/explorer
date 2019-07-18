@@ -1,16 +1,15 @@
-# ETC Explorer
+# EC Explorer
 
-<img src="public/img/explorer-logo.png" alt="ETC Explorer logo" height="200" />
 
-<b>Live Version: [etherhub.io](http://etherhub.io)</b>
+<b>Live Version: [explorer.coin.ec](http://explorer.coin.ec)</b>
 
-Follow the project progress at: [ETC Block Explorer Development](https://github.com/ethereumclassic/explorer)
+Follow the project progress at: [EC Block Explorer Development](https://github.com/coinec/explorer)
 
 ## Local installation
 
 Clone the repo
 
-`git clone https://github.com/ethereumclassic/explorer`
+`git clone https://github.com/coinec/explorer`
 
 Download [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
 
